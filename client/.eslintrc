@@ -24,7 +24,8 @@
     "no-console": 1,
     "react/react-in-jsx-scope": "off",
     "react-hooks/rules-of-hooks": "off",
-    "react-hooks/exhaustive-deps": "off"
+    "react-hooks/exhaustive-deps": "off",
+    "no-unused-vars": "error"
   },
   "overrides": [
     {
